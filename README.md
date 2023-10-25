@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zbj3ji
 - 👀 I’m interested in any interesting machine learning project.
 - 🌱 I’m currently using Coursera to improve my skills in the field of machine learning.
-- 💞️ I’m looking to collaborate on interesting machine learning projects to learn something new and also to share all I know about ML so far.
+- 💞️ I’m looking to collaborate on interesting machine learning projects to learn something new and also to share all I know about ML.
 - 📫 How to reach me: via GitHub
 
 <!---
